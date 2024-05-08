@@ -19,7 +19,7 @@ Full stack en C#, .net y Vue**
 
 <!-- YOUTUBE:START -->
 
-- [Proceso ETl, Visual studio, Sql Server y MariaDB](https://www.youtube.com/watch?v=-30mJkDYZJE)
+- [Proceso ETl, Visual studio, Sql Server y MariaDB](https://www.youtube.com/watch?v=-48mJkDYZJE&t=3s)
 - [Mqtt, MySQL y Grafana](https://www.youtube.com/watch?v=E7XeuRppVIY)
 - [Uso de Flex y Bison](https://www.youtube.com/watch?v=XgnADwERhO0)
 - [Montaje automatico de particiones NTFS, Manjaro](https://www.youtube.com/watch?v=9FTzK6mlCNw)
